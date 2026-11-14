@@ -6,5 +6,7 @@ Total = Salary+Bonus
 print(Name)
 print("Total salary is:", Total)
 
+print("This line is for modification of the code")
+print("Code Success")
 
 
